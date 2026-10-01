@@ -8,6 +8,6 @@ I'm a Bioinformatics student translating complex biological problems into scalab
 - Lab Automation: Writing scripts to streamline manual analysis and reduce processing bottlenecks.
 
 ### Technical Toolkit
-- Languages: Python (Biopython, Pandas, Numpy, Scikit-learn), R, Bash/Shell, SQL
-- Frameworks & Developer Tools: Git, Linux/Unix environments, Jupyter, Flask
-- Domain Knowledge: Genomics, sequence alignment, transcriptomics, molecular biology
+- Languages: Python (Biopython, Pandas, Numpy, Scikit-learn), R, Bash/Shell, SQL, C#
+- Frameworks & Developer Tools: Git, Linux/Unix environments, Jupyter, Flask, Next.js/Tailwind, Unity-ML-agents
+- Domain Knowledge: Genomics, sequence alignment, transcriptomics, molecular biology, reinforcement learning
