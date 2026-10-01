@@ -1,13 +1,21 @@
-## Hi there!
-I'm a Bioinformatics student translating complex biological problems into scalable computational solutions. I specialize in building robust data pipelines, creating accessible tools for bench scientists, and analyzing high-dimensional datasets. 
+# Hi, I'm Sophie!
 
-### Current Focus
+Bioinformatics student interested in protein sequence analysis,
+transcriptomics, and building tools that make analysis easier for bench
+scientists. I'm currently looking for a student position in bioinformatics.
 
-- Pipeline Development: Stringing together CLI tools with Bash and Python to automate high-throughput genomic workflows.
-- Data Visualization: Turning biological data into readable, interactive web dashboards and plots.
-- Lab Automation: Writing scripts to streamline manual analysis and reduce processing bottlenecks.
+## Projects
+- **[Transcription factors vs. metabolic enzymes](https://github.com/SometimesJade/human-tf-vs-metabolic-enzymes)**: 
+  compares sequence features and predicted intrinsic disorder between two
+  functional protein classes (Python, UniProt, IUPred2A)
+- **[EnzymeMap](https://github.com/SometimesJade/enzyme-map)**: a Flask web app
+  that finds restriction sites and draws interactive linear and circular
+  restriction maps (Biopython, Plotly)
 
-### Technical Toolkit
-- Languages: Python (Biopython, Pandas, Numpy, Scikit-learn), R, Bash/Shell, SQL, C#
-- Frameworks & Developer Tools: Git, Linux/Unix environments, Jupyter, Flask, Next.js/Tailwind, Unity-ML-agents
-- Domain Knowledge: Genomics, sequence alignment, transcriptomics, molecular biology, reinforcement learning
+## Currently working on
+- An RNA-seq differential expression pipeline in Nextflow (Salmon, DESeq2)
+
+## Toolkit
+**Languages:** Python (Biopython, pandas, NumPy, scikit-learn), R, Bash, SQL, C#  
+**Tools:** Git, Linux, Jupyter, Flask, Next.js  
+**Also explored:** reinforcement learning with Unity ML-Agents
