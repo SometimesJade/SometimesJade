@@ -1,4 +1,4 @@
-# Hi, I'm Sophie!
+## Hi, I'm Sophie!
 
 Bioinformatics student interested in protein sequence analysis,
 transcriptomics, and building tools that make analysis easier for bench
