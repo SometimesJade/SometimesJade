@@ -1,21 +1,22 @@
-## Hi, I'm Sophie!
+# Hi, I'm Sophie! 👋
 
-Bioinformatics student interested in protein sequence analysis,
-transcriptomics, and building tools that make analysis easier for bench
-scientists. I'm currently looking for a student position in bioinformatics.
+**Bioinformatics Student** focused on protein sequence analysis, transcriptomics, and building intuitive computational tools that make data analysis easier for bench scientists. 
 
-## Projects
-- **[Transcription factors vs. metabolic enzymes](https://github.com/SometimesJade/human-tf-vs-metabolic-enzymes)**: 
-  compares sequence features and predicted intrinsic disorder between two
-  functional protein classes (Python, UniProt, IUPred2A)
-- **[EnzymeMap](https://github.com/SometimesJade/enzyme-map)**: a Flask web app
-  that finds restriction sites and draws interactive linear and circular
-  restriction maps (Biopython, Plotly)
+---
 
-## Currently working on
-- An RNA-seq differential expression pipeline in Nextflow (Salmon, DESeq2)
+### 🧬 Featured Projects
 
-## Toolkit
-**Languages:** Python (Biopython, pandas, NumPy, scikit-learn), R, Bash, SQL, C#  
-**Tools:** Git, Linux, Jupyter, Flask, Next.js  
-**Also explored:** reinforcement learning with Unity ML-Agents
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[RNA-seq Pipeline](https://github.com/SometimesJade/rna-seq-pipeline)** | Reproducible Snakemake pipeline analyzing the transcriptomic response to amlodipine in AGS gastric cancer cells. | `Snakemake` `Salmon` `R` `DESeq2` |
+| **[EnzymeMap](https://github.com/SometimesJade)** | Interactive Flask web app that identifies restriction sites and renders dynamic linear and circular restriction maps. | `Python` `Flask` `Biopython` `Plotly` |
+| **[TFs vs. Metabolic Enzymes](https://github.com/SometimesJade)** | Comparative analysis of sequence features and predicted intrinsic disorder across two functional protein classes. | `Python` `UniProt` `IUPred2A` |
+
+---
+
+### Toolkit
+
+* **Languages & Libraries:** Python (`Biopython`, `pandas`, `NumPy`, `scikit-learn`), R (`DESeq2`), Bash, SQL, C#
+* **Workflows & Tools:** Snakemake, Salmon, Git, Linux, Jupyter
+* **Web & Visualization:** Flask, Plotly, Next.js
+* **Also Explored:** Reinforcement learning with Unity ML-Agents
