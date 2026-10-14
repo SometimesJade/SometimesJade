@@ -2,7 +2,7 @@
 
 **Bioinformatics student** focused on protein sequence analysis and transcriptomics. I like building intuitive computational tools that make data analysis easier for bench scientists.
 
-Currently working on: [your thesis/internship/project]  
+Currently working on: scRNA-seq analysis
 
 ---
 
